@@ -26,7 +26,6 @@ and classification report
 🛠️ Libraries Used
 
 Python
-
 Pandas 
 NumPy
 Matplotlib
