@@ -24,9 +24,13 @@ confusion matrix
 and classification report
 
 🛠️ Libraries Used
+
 Python
-Pandas, NumPy
-Matplotlib, Seaborn
+
+Pandas 
+NumPy
+Matplotlib
+Seaborn
 Scikit-learn
 
 This project demonstrates how machine learning can be effectively applied to real-world insurance analytics problems and fraud detection systems.
