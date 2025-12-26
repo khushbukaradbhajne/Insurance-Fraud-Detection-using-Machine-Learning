@@ -5,12 +5,22 @@ starting from data preprocessing to model evaluation,
 focusing on improving fraud detection accuracy and minimizing false claims.
 
 🔹Key steps performed in this project:
+
 Data cleaning and handling missing values
+
 Exploratory Data Analysis (EDA) to understand fraud patterns
+
 Feature engineering and encoding categorical variables
+
 Feature scaling for model optimization
+
 Training machine learning classification models
-Model evaluation using accuracy, confusion matrix, and classification report
+
+Model evaluation using accuracy 
+
+confusion matrix
+
+and classification report
 
 🛠️ Libraries Used
 Python
