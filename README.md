@@ -1,6 +1,7 @@
 📊 Insurance-Fraud-Detection-using-Machine-Learning
 This project aims to detect fraudulent insurance claims using machine learning classification techniques. The model analyzes customer details and accident-related information to identify patterns that distinguish fraudulent and genuine insurance claims.
-The project covers the complete machine learning pipeline, starting from data preprocessing to model evaluation, 
+The project covers the complete machine learning pipeline, 
+starting from data preprocessing to model evaluation, 
 focusing on improving fraud detection accuracy and minimizing false claims.
 
 🔹Key steps performed in this project:
